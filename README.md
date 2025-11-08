@@ -1,30 +1,88 @@
-<h1 align="center">Hi 👋, I'm Naveen Manjunath Achari</h1>
-<h3 align="center">MERN Stack Developer | React.js | Node.js | Express.js | [cite_start]MongoDB </h3>
-[cite_start]<p align="center">Bengaluru, Karnataka, India </p>
+<h1 align="center">
+  Hi, I'm Naveen M Achari 👋
+  <br>
+  <a href="https://github.com/REHER-CASPER/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full-Stack+Web+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB" alt="Typing SVG" />
+  </a>
+</h1>
 
 <br>
 
-[cite_start]<p>Passionate MERN Stack Developer with a strong foundation in building full-stack web applications[cite: 17]. [cite_start]My expertise lies in using React.js for dynamic front-end experiences and Node.js/Express.js for robust back-end APIs, with MongoDB for database management[cite: 18]. [cite_start]I am also proficient in C, C++, and Python [cite: 19] [cite_start]and experienced in using Git and GitHub for version control[cite: 20].</p>
-
-- [cite_start]💼 I have professional experience as a **Web Development Intern at PLACEMANTRA** [cite: 23, 24][cite_start], where I developed and maintained server-side logic using Node.js/Express.js [cite: 26] [cite_start]and built responsive, dynamic user-facing features with React.js[cite: 27].
-- [cite_start]🚀 I’m actively seeking a **challenging full-time opportunity** where I can contribute to building innovative and efficient software solutions.
-- [cite_start]💡 I’m looking to collaborate on projects involving **Full-Stack Web Development** or **AI** (I have a publication on "AI-Driven Crime Scene Investigation" [cite: 13]).
-- [cite_start]💬 Ask me about **React.js, Node.js, Express.js, MongoDB, Python, C, C++** 
-- [cite_start]📫 How to reach me **navinmachari77@gmail.com** [cite: 2]
-- ⚡ Fun fact **I once spent hours trying to fix a bug, and it turned out to be a missing semicolon 😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@naveen_m_achari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@naveen_m_achari" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/naveen-m-achari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen m achari" height="30" width="40" /></a>
-<a href="https://fb.com/navin m achari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="navin m achari" height="30" width="40" /></a>
-<a href="https://instagram.com/naveen_m_achari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naveen_m_achari_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/naveen_m_achari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naveen_m_achari" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/Naveen-M-Achari/Naveen-M-Achari/blob/main/developer.gif" alt="Coding Animation" width="300"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="httpsor://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen-2004n&show_icons=true&locale=en&layout=compact" alt="naveen-2004n" /></p>
+[cite_start]I'm a passionate **MERN Stack Developer** based in Bengaluru, Karnataka, India[cite: 15, 17].
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-2004n&" alt="naveen-2004n" /></p>
+* [cite_start]🚀 My expertise is building full-stack web applications, using **React.js** for dynamic front-ends and **Node.js/Express.js** with **MongoDB** for robust back-ends[cite: 18].
+* [cite_start]💡 I'm also proficient in **C, C++, and Python**, giving me a strong foundation in software engineering principles[cite: 19].
+* [cite_start]🌱 I recently completed a **Web Development Internship at PLACEMANTRA** [cite: 23, 24][cite_start], where I built and maintained RESTful APIs [cite: 26] [cite_start]and responsive React components[cite: 27].
+* [cite_start]🤝 I'm experienced with **Git and GitHub** for version control and collaboration[cite: 20].
+* [cite_start]📫 I am actively **seeking a challenging opportunity** to help build innovative and efficient software solutions.
+
+<br>
+
+## 💻 My Tech Stack
+
+These are the technologies and tools I work with:
+
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+  
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"></a>
+  
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://swagger.io/docs/specification/api-overview/" target="_blank"><img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs"></a>
+</p>
+
+<br>
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Naveen's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=radical" alt="Naveen's Top Languages" />
+</p>
+
+<br>
+
+## 🚀 My Projects
+
+Here are a few projects I've worked on.
+
+* [cite_start]**[QuickShow](LINK_TO_YOUR_REPO)** 
+    * *Add a 1-2 sentence description of your project here.*
+* [cite_start]**[TRADISCOPE](LINK_TO_YOUR_REPO)** 
+    * *Add a 1-2 sentence description of your project here.*
+* [cite_start]**[AI-Driven Crime Scene Investigation](LINK_TO_YOUR_REPO_OR_PUBLICATION)** [cite: 13]
+    * *Add a 1-2 sentence description of your project here.*
+* [cite_start]**[E-Commerce](LINK_TO_YOUR_REPO)** 
+    * *Add a 1-2 sentence description of your project here.*
+
+<br>
+
+## 📫 Connect with Me
+
+You can reach me on:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/naveen-m-achari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+  </a>
+  <a href="mailto:navinmachari77@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
+  </a>
+</p>
