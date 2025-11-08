@@ -14,13 +14,13 @@
 
 ## 👨‍💻 About Me
 
-[cite_start]I'm a passionate **MERN Stack Developer** based in Bengaluru, Karnataka, India[cite: 15, 17].
+I'm a passionate **MERN Stack Developer** based in Bengaluru, Karnataka, India.
 
-* [cite_start]🚀 My expertise is building full-stack web applications, using **React.js** for dynamic front-ends and **Node.js/Express.js** with **MongoDB** for robust back-ends[cite: 18].
-* [cite_start]💡 I'm also proficient in **C, C++, and Python**, giving me a strong foundation in software engineering principles[cite: 19].
-* [cite_start]🌱 I recently completed a **Web Development Internship at PLACEMANTRA** [cite: 23, 24][cite_start], where I built and maintained RESTful APIs [cite: 26] [cite_start]and responsive React components[cite: 27].
-* [cite_start]🤝 I'm experienced with **Git and GitHub** for version control and collaboration[cite: 20].
-* [cite_start]📫 I am actively **seeking a challenging opportunity** to help build innovative and efficient software solutions.
+* 🚀 My expertise is building full-stack web applications, using **React.js** for dynamic front-ends and **Node.js/Express.js** with **MongoDB** for robust back-ends.
+* 💡 I'm also proficient in **C, C++, and Python**, giving me a strong foundation in software engineering principles.
+* 🌱 I recently completed a **Web Development Internship at PLACEMANTRA** , where I built and maintained RESTful APIs and responsive React components.
+* 🤝 I'm experienced with **Git and GitHub** for version control and collaboration.
+* 📫 I am actively **seeking a challenging opportunity** to help build innovative and efficient software solutions.
 
 <br>
 
@@ -52,9 +52,9 @@ These are the technologies and tools I work with:
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Naveen's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-2004N&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Naveen's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=radical" alt="Naveen's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-2004N&layout=compact&langs_count=8&theme=radical" alt="Naveen's Top Languages" />
 </p>
 
 <br>
@@ -63,13 +63,13 @@ These are the technologies and tools I work with:
 
 Here are a few projects I've worked on.
 
-* [cite_start]**[QuickShow](LINK_TO_YOUR_REPO)** 
+* **[QuickShow](LINK_TO_YOUR_REPO)** 
     * *Add a 1-2 sentence description of your project here.*
-* [cite_start]**[TRADISCOPE](LINK_TO_YOUR_REPO)** 
+* **[TRADISCOPE](LINK_TO_YOUR_REPO)** 
     * *Add a 1-2 sentence description of your project here.*
-* [cite_start]**[AI-Driven Crime Scene Investigation](LINK_TO_YOUR_REPO_OR_PUBLICATION)** [cite: 13]
+* **[AI-Driven Crime Scene Investigation](LINK_TO_YOUR_REPO_OR_PUBLICATION)** [cite: 13]
     * *Add a 1-2 sentence description of your project here.*
-* [cite_start]**[E-Commerce](LINK_TO_YOUR_REPO)** 
+* **[E-Commerce](LINK_TO_YOUR_REPO)** 
     * *Add a 1-2 sentence description of your project here.*
 
 <br>
