@@ -65,8 +65,8 @@ Here are a few projects I've worked on.
 
 * **[QuickShow](https://quick-show-hyhl.vercel.app)** 
     * * Engineered a scalable ticket-booking web app with real-time seat selection and admin analytics dashboard.*
-      * *Integrated Clerk for secure authentication and profile management; automated user sync using Inngest.*
-      * *Improved user engagement by 25% through intuitive UI design and dynamic filtering.*
+    * *Integrated Clerk for secure authentication and profile management; automated user sync using Inngest.*
+    * *Improved user engagement by 25% through intuitive UI design and dynamic filtering.*
 * **[TRADISCOPE](https://tradiscope-1097.onrender.com)** 
     * *Developed a full-stack AI-driven trading web app offering real-time market insights and analysis tools.*
     * *Implemented Bias Analysis using OpenRouter API to generate AI-based bullish, bearish, or neutral trade bias.*
