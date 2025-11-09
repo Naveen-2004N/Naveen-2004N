@@ -63,17 +63,25 @@ These are the technologies and tools I work with:
 
 Here are a few projects I've worked on.
 
-* **[QuickShow](LINK_TO_YOUR_REPO)** 
-    * *Add a 1-2 sentence description of your project here.*
-* **[TRADISCOPE](LINK_TO_YOUR_REPO)** 
-    * *Add a 1-2 sentence description of your project here.*
+* **[QuickShow](https://quick-show-hyhl.vercel.app)** 
+    * * Engineered a scalable ticket-booking web app with real-time seat selection and admin analytics dashboard.*
+      * *Integrated Clerk for secure authentication and profile management; automated user sync using Inngest.*
+      * *Improved user engagement by 25% through intuitive UI design and dynamic filtering.*
+* **[TRADISCOPE](https://tradiscope-1097.onrender.com)** 
+    * *Developed a full-stack AI-driven trading web app offering real-time market insights and analysis tools.*
+    * *Implemented Bias Analysis using OpenRouter API to generate AI-based bullish, bearish, or neutral trade bias.*
+    * *Implemented Bias Analysis using OpenRouter API to generate AI-based bullish, bearish, or neutral trade bias.*
+    * *Integrated Market News module using NewsData API to fetch and display the latest global financial updates.*
+    * *Built an interactive Trading Plan feature to document, analyze, and refine trade strategies.*
 * **[AI-Driven Crime Scene Investigation](https://rjwave.org/ijedr/viewpaperforall.php?paper=IJEDR2503155)**
     * *Co-authored a published research paper on an AI-driven system for forensic analysis. My primary contribution was the design and development of the core web application using the MERN stack.*
     * *Built the complete back-end, including secure RESTful APIs, using Node.js and Express.js to manage case data and evidence.*
     * *Designed and implemented the MongoDB database schema for efficient, scalable storage of all investigation-related information.*
     * *Collaborated with the AI/ML team to integrate their models and analytics into the main MERN application.*
-* **[E-Commerce](LINK_TO_YOUR_REPO)** 
-    * *Add a 1-2 sentence description of your project here.*
+* **[E-Commerce](https://e-commerce-website-self-phi.vercel.app)** 
+    * *Built a fully responsive multipage e-commerce website from scratch.*
+    * *Developed responsive navigation and mobile-friendly hamburger menu.*
+    * *Designed interactive UI elements and transitions to enhance user experience.*
 
 <br>
 
