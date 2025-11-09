@@ -64,7 +64,7 @@ These are the technologies and tools I work with:
 Here are a few projects I've worked on.
 
 * **[QuickShow](https://quick-show-hyhl.vercel.app)** 
-    * * Engineered a scalable ticket-booking web app with real-time seat selection and admin analytics dashboard.*
+    * *Engineered a scalable ticket-booking web app with real-time seat selection and admin analytics dashboard.*
     * *Integrated Clerk for secure authentication and profile management; automated user sync using Inngest.*
     * *Improved user engagement by 25% through intuitive UI design and dynamic filtering.*
 * **[TRADISCOPE](https://tradiscope-1097.onrender.com)** 
