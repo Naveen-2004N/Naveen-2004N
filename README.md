@@ -67,8 +67,11 @@ Here are a few projects I've worked on.
     * *Add a 1-2 sentence description of your project here.*
 * **[TRADISCOPE](LINK_TO_YOUR_REPO)** 
     * *Add a 1-2 sentence description of your project here.*
-* **[AI-Driven Crime Scene Investigation](LINK_TO_YOUR_REPO_OR_PUBLICATION)** [cite: 13]
-    * *Add a 1-2 sentence description of your project here.*
+* **[AI-Driven Crime Scene Investigation](https://rjwave.org/ijedr/viewpaperforall.php?paper=IJEDR2503155)**
+    * *Co-authored a published research paper on an AI-driven system for forensic analysis. My primary contribution was the design and development of the core web application using the MERN stack.*
+    * *Built the complete back-end, including secure RESTful APIs, using Node.js and Express.js to manage case data and evidence.*
+    * *Designed and implemented the MongoDB database schema for efficient, scalable storage of all investigation-related information.*
+    * *Collaborated with the AI/ML team to integrate their models and analytics into the main MERN application.*
 * **[E-Commerce](LINK_TO_YOUR_REPO)** 
     * *Add a 1-2 sentence description of your project here.*
 
