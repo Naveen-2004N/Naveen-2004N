@@ -86,15 +86,6 @@ I am a driven **Full-Stack MERN Developer** and Software Development Intern base
 
 ---
 
-## 📊 Developer Ecosystem Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-2004N&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Naveen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-2004N&layout=compact&langs_count=8&theme=radical" alt="Naveen's Top Languages" width="48%" />
-</p>
-
----
-
 <p align="center">
   <i>"Building optimized systems today for the web architectures of tomorrow."</i>
 </p>
