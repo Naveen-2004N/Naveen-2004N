@@ -160,9 +160,9 @@ A scalable full-stack food ordering platform designed with enterprise-level arch
 
 `Java` • `Spring Boot` • `Hibernate` • `React.js` • `MySQL` • `REST APIs` • `Maven`
 
-🔗 **Repository:** *(Add your GitHub link)*
+🔗 **Repository:** *(https://github.com/Naveen-2004N/FoodCart-Docker)*
 
-🌐 **Live Demo:** *(Add your deployment link)*
+🌐 **Live Demo:** *(https://foodcart-sh1x.onrender.com/)*
 
 ---
 
@@ -186,9 +186,9 @@ QuickShow is an online movie ticket booking application that allows users to exp
 
 `Java` • `Spring Boot` • `React.js` • `MySQL` • `REST APIs`
 
-🔗 **Repository:** *(Add your GitHub link)*
+🔗 **Repository:** *(https://github.com/Naveen-2004N/QuickShow-Frontend.git)*
 
-🌐 **Live Demo:** *(Add your deployment link)*
+🌐 **Live Demo:** *(https://mymovie-booking.onrender.com/)*
 
 ---
 
@@ -212,7 +212,7 @@ An intelligent crime investigation platform that leverages Artificial Intelligen
 
 `Java` • `Spring Boot` • `React.js` • `Python` • `Machine Learning` • `MySQL`
 
-🔗 **Repository:** *(Add your GitHub link)*
+🔗 **Repository:** *(https://github.com/Naveen-2004N/Criminal-Investigation)*
 
 ---
 
