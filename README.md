@@ -1,91 +1,226 @@
 <h1 align="center">
-  Hi, I'm Naveen M Achari 👋
-  <br>
-  <a href="https://github.com/Naveen-2004N">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full-Stack+Web+Developer;React.js+%7C+Node.js+%7C+Express.js" alt="Typing SVG" />
-  </a>
+  Hi 👋, I'm Naveen M Achari
 </h1>
 
-<p align="center">
-  <a href="https://naveen2004-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-naveen.dev-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/naveen-m-achari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:navinmachari77@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I am a driven **Full-Stack MERN Developer** and Software Development Intern based in Karnataka, India. I specialize in building scalable web ecosystems with modern architectural patterns, slick user interfaces, and robust backend workflows.
-
-* **💼 Professional Experience:** Currently honing core software engineering principles and backend architecture skills as a **Software Development Intern at TAP Academy**.
-* **🚀 Key Focus:** Writing clean, modular code, building secure RESTful workflows, and crafting responsive frontends using Tailwind CSS and modern UI libraries.
-* **🧠 Problem Solver:** Enthusiastic about structural performance optimizations, real-time communication protocols, and asynchronous architecture.
-
----
-
-## 💻 Tech Stack
-
-### 🚀 Frontend & Design
-<p align="left">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-### ⚙️ Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=swagger&logoColor=white" alt="REST">
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io">
-</p>
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-</p>
-
----
-
-## 🛠️ Featured Engineering Projects
-
-### 🛒 [E-Commerce Platform](https://ecommerce-app-green-xi-19.vercel.app)
-> **Scalable Multi-Tier Digital Retailer**
-* **Stack:** MongoDB, Express.js, React, Node.js, Tailwind CSS
-* Architected a **scalable full-stack e-commerce solution** featuring a dynamic frontend, a centralized backend API, and a dedicated admin dashboard.
-* Optimizing application performance by implementing **React Context API** for efficient global state management of cart operations and product search workflows.
-* Engineered **high-performance media handling** by incorporating Cloudinary and Multer for optimized, cloud-based product image storage.
-
-### 🎬 [QuickShow](https://quickshow-iota-tawny.vercel.app)
-> **Full-Stack Media Booking & Lifecycle Application**
-* **Stack:** MongoDB, Express.js, React, Node.js, Stripe, Inngest, Clerk
-* Developed a **full-stack movie booking system** featuring real-time seat selection pipelines, secure payment processing, and automated ticket confirmations.
-* Integrated **Stripe API with Webhooks** and Inngest to elegantly manage secure financial transactions and asynchronous booking lifecycle events.
-* Engineered a dynamic content engine utilizing RapidAPI layers to serve real-time movie data and media trailers seamlessly.
-
-### 💬 [Real-Time Chat Application](https://chatapp-client-m25v.onrender.com)
-> **High-Concurrency Real-Time Messaging Server**
-* **Stack:** MongoDB, Express.js, React, Node.js, Socket.IO, Cloudinary
-* Engineered a **real-time messaging platform** utilizing **Socket.IO** to enable instant, bidirectional, low-latency communication channels between users.
-* Integrated Cloudinary asset pipelines to achieve optimized chat media uploads, profile avatars, and fast inline image attachment parsing.
-* Implemented strict **secure authentication using JWT** to protect data access endpoints for private conversations and session historical state.
-
----
+<h3 align="center">
+Java Full Stack Developer | Software Engineer | Spring Boot Enthusiast
+</h3>
 
 <p align="center">
-  <i>"Building optimized systems today for the web architectures of tomorrow."</i>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Hibernate+%7C+React.js;Building+Scalable+Enterprise+Applications;Always+Learning+New+Technologies" />
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Naveen-2004N&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://img.shields.io/github/followers/Naveen-2004N?label=Followers&style=social"/>
+
+<img src="https://img.shields.io/github/stars/Naveen-2004N?affiliations=OWNER&style=social"/>
+
+</p>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/naveen-m-achari/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:navinmachari77@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Naveen-2004N">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://naveen2004-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+# 💫 About Me
+
+I'm a passionate **Java Full Stack Developer** with a strong interest in designing scalable, secure, and high-performance web applications.
+
+🎓 B.E. Information Science Graduate
+
+💼 Software Development Intern @ TAP Academy
+
+💻 Passionate about Enterprise Java Development
+
+🌱 Currently learning
+
+- Spring Security
+- Spring Microservices
+- Docker
+- AWS
+
+🚀 Interested in
+
+- Backend Development
+- REST API Design
+- Cloud Technologies
+- Distributed Systems
+
+🎯 Career Goal
+
+To become a Software Engineer building enterprise-level applications using Java and modern backend technologies.
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql" />
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=spring" />
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Servlets-E76F00?style=for-the-badge&logo=apachetomcat&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</p>
+
+---
+
+### 🎨 Frontend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,javascript" />
+
+</p>
+
+---
+
+### 🗄️ Database
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</p>
+
+---
+
+### 🧰 Tools & Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,maven,idea,vscode,postman,docker" />
+
+<img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+
+</p>
+
+---
+
+### ☁️ Currently Learning
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=aws,docker" />
+
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge"/>
+
+</p>
+# 🚀 Featured Projects
+
+## 🍔 FoodCart - Online Food Ordering System
+
+**Java Full Stack | Spring Boot | Hibernate | React.js | MySQL | REST APIs**
+
+A scalable full-stack food ordering platform designed with enterprise-level architecture. The application enables users to browse restaurants, place orders, manage carts, and securely authenticate while providing administrators with complete restaurant and menu management capabilities.
+
+### ✨ Key Features
+
+- 🔐 Secure User Authentication & Authorization
+- 🍽️ Restaurant & Menu Management
+- 🛒 Shopping Cart & Order Processing
+- 💳 Online Payment Integration
+- 📦 Order History & Tracking
+- 📱 Responsive User Interface
+- 🔄 RESTful API Architecture
+- 🗄️ MySQL Database Integration
+
+**Tech Stack**
+
+`Java` • `Spring Boot` • `Hibernate` • `React.js` • `MySQL` • `REST APIs` • `Maven`
+
+🔗 **Repository:** *(Add your GitHub link)*
+
+🌐 **Live Demo:** *(Add your deployment link)*
+
+---
+
+## 🎬 QuickShow - Movie Ticket Booking System
+
+**Java Full Stack | Spring Boot | React.js | MySQL**
+
+QuickShow is an online movie ticket booking application that allows users to explore movies, select seats, book tickets, and manage reservations through a modern and responsive interface.
+
+### ✨ Key Features
+
+- 🎥 Browse Latest Movies
+- 🪑 Real-Time Seat Selection
+- 🎟️ Online Ticket Booking
+- 👤 User Authentication
+- 💳 Secure Payment Workflow
+- 📊 Admin Dashboard
+- 📱 Responsive Design
+
+**Tech Stack**
+
+`Java` • `Spring Boot` • `React.js` • `MySQL` • `REST APIs`
+
+🔗 **Repository:** *(Add your GitHub link)*
+
+🌐 **Live Demo:** *(Add your deployment link)*
+
+---
+
+## 🕵️ AI-Based Criminal Recognition System
+
+**Java | Spring Boot | React.js | AI | Face Recognition**
+
+An intelligent crime investigation platform that leverages Artificial Intelligence and facial recognition to assist law enforcement agencies in identifying suspects and managing digital evidence efficiently.
+
+### ✨ Key Features
+
+- 🤖 AI-Based Face Recognition
+- 📷 Criminal Identification
+- 📂 Evidence Management
+- 🔐 Secure Authentication
+- 📊 Dashboard & Analytics
+- ☁️ Cloud Image Storage
+- 📡 REST API Integration
+
+**Tech Stack**
+
+`Java` • `Spring Boot` • `React.js` • `Python` • `Machine Learning` • `MySQL`
+
+🔗 **Repository:** *(Add your GitHub link)*
+
+---
+
+## 📈 What I'm Currently Working On
+
+- 🌱 Building Enterprise Java Applications
+- ⚡ Mastering Spring Boot & Spring Security
+- 🔐 Implementing JWT Authentication
+- ☁️ Learning Docker & AWS
+- 📚 Strengthening Data Structures & Algorithms
+- 🚀 Preparing for Software Engineer Roles
