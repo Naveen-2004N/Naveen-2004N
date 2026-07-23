@@ -9,15 +9,6 @@ Java Full Stack Developer | Software Engineer | Spring Boot Enthusiast
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Hibernate+%7C+React.js;Building+Scalable+Enterprise+Applications;Always+Learning+New+Technologies" />
 </p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Naveen-2004N&label=Profile%20Views&color=0e75b6&style=flat" />
-
-<img src="https://img.shields.io/github/followers/Naveen-2004N?label=Followers&style=social"/>
-
-<img src="https://img.shields.io/github/stars/Naveen-2004N?affiliations=OWNER&style=social"/>
-
-</p>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/naveen-m-achari/">
